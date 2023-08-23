@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kyyylar
-- Im learning JavaScript and ReactJS :)
+- Im learning C# ;0
 
 <!---
 Kyyylar/Kyyylar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
